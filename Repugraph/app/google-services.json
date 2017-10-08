@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "525689938141",
+    "firebase_url": "https://repugraph-e5532.firebaseio.com",
+    "project_id": "repugraph-e5532",
+    "storage_bucket": "repugraph-e5532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525689938141:android:ff8751eea3321ac6",
+        "android_client_info": {
+          "package_name": "edu.vanderbilt.repugraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525689938141-qnfhf750pojjuunm8ganu373n2uf4j7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckDhHfhM64cZLM50PSFd-cdYRcSF0KUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
